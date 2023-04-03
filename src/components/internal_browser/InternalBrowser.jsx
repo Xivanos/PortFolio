@@ -21,7 +21,7 @@ const InternalBrowser = (props) => {
     { name: "TD1", url: "https://sioreport.com/21.JOUANNE/TD1/TD1.html" },
     { name: "TD2", url: "https://sioreport.com/21.JOUANNE/TD2/TD2.html" },
     { name: "TD4", url: "https://sioreport.com/21.JOUANNE/TD4/" },
-    { name: "Portfolio", url: "https://miloroche.fr" },
+    { name: "Portfolio", url: "port-folio-yodv.vercel.app" },
   ];
 
   const handleFullscreen = () => {

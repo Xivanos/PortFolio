@@ -1,4 +1,4 @@
-# Evan Jouanneau's online portfolio
+# Milo Roche-Vandenbroucque's online portfolio
 
 This is the repository on wich you can find the source code of my [online portfolio](https://miloroche.fr).
 
