@@ -2,7 +2,7 @@
 
 This is the repository on wich you can find the source code of my [online portfolio](port-folio-yodv.vercel.app).
 
-![demo image](./src/assets/pres.png)
+
 
 ## Description
 
