@@ -5,7 +5,7 @@ import experienceList from "./../../ressources/listExperiences.json";
 import bo from "./../../assets/logosEntreprises/bo.png";
 import yvpc from "./../../assets/logosEntreprises/yvpc.PNG";
 import ae from "./../../assets/logosEntreprises/ae.png";
-import demo from "./../../assets/demo.png";
+import pres from "./../../assets/pres.PNG";
 import adobecc from "./../../assets/iconesStack/adobecc.webp";
 import angular from "./../../assets/iconesStack/angular.webp";
 import ansible from "./../../assets/iconesStack/ansible.webp";
@@ -94,7 +94,7 @@ export default function MainWindow(props) {
           <div className="content">
             <section className="demoMobile">
               <p>Profitez de l'expérience complète sur Desktop !</p>
-              <img src={demo} alt="demo screenshot on desktop" />
+              <img src={pres} alt="pres screenshot on desktop" />
             </section>
             <section className="presentation" id="perso">
               <div className="round" />

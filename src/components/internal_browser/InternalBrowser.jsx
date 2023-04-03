@@ -16,11 +16,13 @@ const InternalBrowser = (props) => {
   const handleCloseHomePage = () => {
     setShowHomePage(false);
   };
-
+  
   const predefinedLinks = [
     { name: "TD1", url: "https://sioreport.com/21.JOUANNE/TD1/TD1.html" },
     { name: "TD2", url: "https://sioreport.com/21.JOUANNE/TD2/TD2.html" },
     { name: "TD4", url: "https://sioreport.com/21.JOUANNE/TD4/" },
+    { name: "AP1", url: "https://sioreport.com/21.DJEGHBA/STAGE/" },
+    { name: "PHISHING", url: "https://sioreport.com/21.DJEGHBA/PHISHING/" },
     { name: "Portfolio", url: "port-folio-yodv.vercel.app" },
   ];
 

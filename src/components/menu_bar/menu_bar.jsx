@@ -15,7 +15,7 @@ export default function MenuBar(props) {
       </div>
       <div className="version">
         <a
-          href="https://github.com/MiloAnton/Portfolio"
+          href="https://github.com/Xivanos/PortFolio"
           target="_blank"
           rel="noreferrer"
           title="Repository GitHub"
