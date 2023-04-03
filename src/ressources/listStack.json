@@ -1,0 +1,75 @@
+{
+  "frontend": [
+    {
+      "nom": "React",
+      "description": "Bibliothèque JavaScript libre développée par Facebook pour faciliter la création d'interfaces utilisateur.",
+      "image": "react"
+    }
+  ],
+  "langages": [
+    {
+      "nom": "JavaScript",
+      "description": "Langage de programmation de scripts principalement utilisé pour les pages web interactives et les applications web.",
+      "image": "javascript"
+    },
+    {
+      "nom": "Python",
+      "description": "Langage de programmation interprété, multi-paradigme et multiplateforme.",
+      "image": "python"
+    },
+    {
+      "nom": "PHP",
+      "description": "Langage de script open source principalement utilisé pour le développement web côté serveur.",
+      "image": "php"
+    }
+  ],
+  "backend": [
+    
+    {
+      "nom": "SQL",
+      "description": "Langage de requête utilisé pour communiquer avec des bases de données relationnelles.",
+      "image": "sql"
+    }
+  ],
+  "devops": [
+    {
+      "nom": "Git",
+      "description": "Système de contrôle de version distribué gratuit et open source conçu pour gérer tout, depuis de petits projets jusqu'à de très grands projets avec rapidité et efficacité.",
+      "image": "git"
+    }
+  ],
+  "autres": [
+    {
+      "nom": "Adobe CC",
+      "description": "Suite de logiciels de création graphique, de montage vidéo et de développement web de la société Adobe Systems.",
+      "image": "adobecc"
+    },
+    {
+      "nom": "G-Suite",
+      "description": "Suite de logiciels de productivité basés sur le Web comprenant Gmail, Google Drive, Google Docs, Sheets, Slides, etc.",
+      "image": "gsuite"
+    },
+    {
+      "nom": "Office",
+      "description": "Suite de logiciels de productivité comprenant Word, Excel, PowerPoint, Outlook, etc.",
+      "image": "office"
+    }
+  ],
+  "os": [
+    {
+      "nom": "Linux",
+      "description": "Système d'exploitation de type Unix qui est gratuit et open source.",
+      "image": "tux"
+    },
+    {
+      "nom": "macOS",
+      "description": "Système d'exploitation propriétaire développé par Apple pour ses ordinateurs Macintosh.",
+      "image": "finder"
+    },
+    {
+      "nom": "Windows",
+      "description": "Système d'exploitation propriétaire développé par Microsoft pour les ordinateurs personnels.",
+      "image": "windows"
+    }
+  ]
+}

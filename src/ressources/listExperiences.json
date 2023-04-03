@@ -1,0 +1,43 @@
+{
+  "experiences": [
+    {
+      "entreprise": "FreeLance",
+      "logo": "ae",
+      "contrat": "AutoEntreprise",
+      "localisation": "Distanciel",
+      "timeline": "2022 - ...",
+      "poste": "Développeur Site Web Vitrine",
+      "description": [
+        "Responsable de la conception du site internet demandé",
+        "Proposez plusieurs protoypes du site au client",
+        "Travaillez en collaboration avec des graphistes pour les logos d'entreprise"
+      ]
+    },
+    {
+      "entreprise": "Yvelines PC",
+      "logo": "bytel",
+      "contrat": "Stage",
+      "localisation": "Yvelines",
+      "timeline": "mars 2023 - avril 2023",
+      "poste": "Dépanneur Informatique et Développeur Site Web Vitrine",
+      "description": [
+        "Dépannage Informatique chez le particulier",
+        "Installation d'imprimantes,Réparation matérielles informatiques",
+        "Création de Site Web Vitrine pour particulier"
+      ]
+    },
+    {
+      "entreprise": "Boulangerie Benettes",
+      "logo": "bo",
+      "contrat": "Stage",
+      "localisation": "LePecq",
+      "timeline": "2022",
+      "poste": "Développeur web",
+      "description": [
+        "Développement d'un site Web pour une boulangerie",
+        "Travail en collaboration avec les propriétaires de la boulangerie afin d'obtenir le site de leur choix",
+        "Développement de mes compétences en tant que Développeur Web"
+      ]
+    }
+  ]
+}
